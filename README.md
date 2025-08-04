@@ -18,7 +18,7 @@
     - 자료형, 변수, 연산자
     - 제어문, 반복문
     - 함수와 모듈
-- 실습 문제 풀이 (예정)
+- 실습 문제 풀이
 
 ---
 
@@ -33,10 +33,10 @@
 ---
 
 ## 디렉토리 구조
-📦 pythonBasic
-┣ 📂 pack01
-┣ 📂 pack02
-┣ 📂 pack03
-┣ 📂 pack04
-┣ 📂 practice
-┗ README.md
+- pythonBasic  
+  ├─ pack01  
+  ├─ pack02  
+  ├─ pack03  
+  ├─ pack04  
+  ├─ practice  
+  └─ README.md
