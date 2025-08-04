@@ -32,14 +32,14 @@
 
 ---
 
-## 디렉토리 구조
-📦 pythonBasic 
+## 📁 디렉토리 구조
+
+```
+📦 pythonBasic
 ┣ 📂 pack01
 ┣ 📂 pack02
 ┣ 📂 pack03
 ┣ 📂 pack04
-┣ practice
+┣ 📂 practice
 ┗ 📄 README.md
-
-
-
+```
