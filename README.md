@@ -33,13 +33,13 @@
 ---
 
 ## 디렉토리 구조
-- pythonBasic  
-  ├─ pack01  
-  ├─ pack02  
-  ├─ pack03  
-  ├─ pack04  
-  ├─ practice  
-  └─ README.md
+📦 pythonBasic 
+┣ 📂 pack01
+┣ 📂 pack02
+┣ 📂 pack03
+┣ 📂 pack04
+┣ practice
+┗ 📄 README.md
 
 
 
